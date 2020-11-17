@@ -41,4 +41,8 @@ public class ContaMock {
         return saldo;
     }
 
+    public void teste(){
+        System.out.println("teste");
+    }
+
 }
